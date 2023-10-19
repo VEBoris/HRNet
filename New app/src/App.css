@@ -46,10 +46,10 @@ a, button {
   font-weight: bold;
   background-color: #687e12;
 }
-#create-employee button{
+/* #create-employee button{
   margin-top: 1rem;
   padding: 1rem 2rem 1rem 2rem;
-}
+} */
 .close{
   padding: 0.5rem 0.8rem;
 }
@@ -59,4 +59,7 @@ footer {
 }
 .prov {
   margin-bottom: 1rem;
+}
+#submit{
+  margin: 20px;
 }
