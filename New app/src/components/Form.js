@@ -78,7 +78,8 @@ function Form(){
                     {modalVisible && 
                     <Modal 
                         text="Employee Created !"
-                        closeModal={closeModal} />}
+                        closeModal={closeModal}
+                         />}
                 </div>
             </form>
     )
